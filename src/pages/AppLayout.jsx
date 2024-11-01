@@ -1,11 +1,7 @@
-import AppNav from "../components/AppNav";
+// import AppNav from "../components/AppNav";
 
 function AppLayout() {
-  return (
-    <div>
-      <AppNav />
-    </div>
-  );
+  return <div style={{ color: "green", fontSize: "30px" }}>hello</div>;
 }
 
 export default AppLayout;

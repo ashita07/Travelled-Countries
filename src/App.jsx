@@ -4,6 +4,7 @@ import Pricing from "./pages/Pricing";
 import HomePage from "./pages/HomePage";
 import PageNotFound from "./pages/PageNotFound";
 import AppLayout from "./pages/AppLayout";
+import PageNav from "./components/PageNav";
 
 export default function App() {
   return (

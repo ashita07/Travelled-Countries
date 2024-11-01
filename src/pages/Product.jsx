@@ -3,8 +3,8 @@ import PageNav from "../components/PageNav";
 function product() {
   return (
     <div>
-      Product
       <PageNav />
+      <h2>Product</h2>
     </div>
   );
 }
