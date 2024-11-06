@@ -1,10 +1,10 @@
 import SideBar from "../components/SideBar";
-import styles from "./AppLayout.modules.css?inline";
+import styles from "./AppLayout.module.css";
 import Map from "../components/Map";
 
 function AppLayout() {
   return (
-    <div className={styles.app}>
+    <div className={styles.appLayout}>
       <SideBar />
       <Map />
     </div>
