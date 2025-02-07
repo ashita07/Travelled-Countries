@@ -27,9 +27,9 @@ function City() {
   return (
     <>
       <h1> City {id}</h1>
-      <h2>
+      <p>
         position : {lat},{lng}
-      </h2>
+      </p>
     </>
   );
   // return (
