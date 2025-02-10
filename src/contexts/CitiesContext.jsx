@@ -1,4 +1,4 @@
-import { createContext, useState, useEffect } from "react";
+import { createContext, useState, useEffect, useContext } from "react";
 
 const CityContext = createContext();
 
@@ -36,4 +36,10 @@ function CityContextProvider({ children }) {
   );
 }
 
-export { CityContextProvider };
+function useCities() {
+  const context = useContext(CityContext);
+  if (context === undefined) throw new Error("used in wrong place");
+  return context;
+}
+
+export { CityContextProvider, useCities };
