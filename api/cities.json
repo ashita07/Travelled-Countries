@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "id": "2f77",
-      "cityName": "Borriol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-02-15T02:12:55.419Z",
-      "notes": "",
-      "position": {
-        "lat": "40.078958201814594",
-        "lng": "-0.027465820312500003"
-      }
-    },
-    {
-      "id": "8986",
-      "cityName": "Alcaniz",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-07T12:48:16.217Z",
-      "notes": "",
-      "position": {
-        "lat": "41.050551794375345",
-        "lng": "-0.121144879915438"
-      }
-    },
-    {
-      "id": "6c8a",
-      "cityName": "Torrecilla del Rebollar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-07T12:50:01.771Z",
-      "notes": "",
-      "position": {
-        "lat": "40.884375438686554",
-        "lng": "-1.0780334472656252"
-      }
-    },
-    {
       "id": "0b07",
       "cityName": "Cubel",
       "country": "Spain",
@@ -106,6 +70,30 @@
       "position": {
         "lat": "32.2001022038432",
         "lng": "-3.5156250000000004"
+      }
+    },
+    {
+      "id": "85a9",
+      "cityName": "Sierra-Engarceran",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-08T13:47:29.697Z",
+      "notes": "",
+      "position": {
+        "lat": "40.23543669270874",
+        "lng": "-0.028839111328125003"
+      }
+    },
+    {
+      "id": "5d7a",
+      "cityName": "Albocasser",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-08T13:47:34.049Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41757587742932",
+        "lng": "0.03707885742187501"
       }
     }
   ]

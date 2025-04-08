@@ -8,7 +8,7 @@ import {
 
 const CityContext = createContext();
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = import.meta.env.VITE_BASE_URL;
 
 const initialState = {
   cities: [],
