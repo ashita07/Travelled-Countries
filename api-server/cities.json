@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "id": "2f77",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-15T02:12:55.419Z",
+      "notes": "",
+      "position": {
+        "lat": "40.078958201814594",
+        "lng": "-0.027465820312500003"
+      }
+    },
+    {
+      "id": "8986",
+      "cityName": "Alcaniz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:48:16.217Z",
+      "notes": "",
+      "position": {
+        "lat": "41.050551794375345",
+        "lng": "-0.121144879915438"
+      }
+    },
+    {
+      "id": "6c8a",
+      "cityName": "Torrecilla del Rebollar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:50:01.771Z",
+      "notes": "",
+      "position": {
+        "lat": "40.884375438686554",
+        "lng": "-1.0780334472656252"
+      }
+    },
+    {
+      "id": "0b07",
+      "cityName": "Cubel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:50:09.201Z",
+      "notes": "",
+      "position": {
+        "lat": "41.10514800938298",
+        "lng": "-1.5559387207031252"
+      }
+    },
+    {
+      "id": "7a1e",
+      "cityName": "Torralba del Pinar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:51:15.554Z",
+      "notes": "",
+      "position": {
+        "lat": "39.98953047343646",
+        "lng": "-0.47378540039062506"
+      }
+    },
+    {
+      "id": "4889",
+      "cityName": "Corrales",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:51:42.729Z",
+      "notes": "",
+      "position": {
+        "lat": "41.30435406744404",
+        "lng": "-5.756835937500001"
+      }
+    },
+    {
+      "id": "d488",
+      "cityName": "Vistabella del Maestrazgo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:56:57.240Z",
+      "notes": "",
+      "position": {
+        "lat": "40.32977915695972",
+        "lng": "-0.3350830078125"
+      }
+    },
+    {
+      "id": "cb0f",
+      "cityName": "Argente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-07T12:57:18.447Z",
+      "notes": "",
+      "position": {
+        "lat": "40.730426500771834",
+        "lng": "-1.1727905273437502"
+      }
+    },
+    {
+      "id": "bed1",
+      "cityName": "Bni Tadjite",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-04-07T12:57:31.875Z",
+      "notes": "",
+      "position": {
+        "lat": "32.2001022038432",
+        "lng": "-3.5156250000000004"
+      }
+    }
+  ]
+}
